@@ -1,4 +1,4 @@
-## Olá, Eu sou a Priscilla! :relaxed:
+## Olá, Eu sou a Priscilla!
 - Graduanda em Ciência da Computação. :sparkling_heart:
 - Estudo também programação com o objetivo de me tornar FullStack. :bulb:
 - Atualmente estagiária de Desenvolvimento de Software. :rocket:
